@@ -8,7 +8,8 @@
     "ethereumjs-util": "^7.0.3",
     "hdkey": "^2.0.1",
     "web3": "^1.2.11",
-    "underscore": ">=1.12.1"
+    "underscore": ">=1.12.1",
+    "ws": ">=5.2.3"
   },
   "devDependencies": {},
   "scripts": {
