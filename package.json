@@ -4,12 +4,12 @@
   "description": "A repository that shows how to generate a private / public key pair using web3.js or HD wallets.",
   "main": "wallet_generation.js",
   "dependencies": {
-    "bip39": "^3.0.2",
-    "ethereumjs-util": "^7.0.3",
+    "bip39": "^3.0.4",
+    "ethereumjs-util": "^7.1.5",
     "hdkey": "^2.0.1",
-    "web3": "^1.2.11",
-    "underscore": ">=1.12.1",
-    "ws": ">=5.2.3"
+    "web3": "^1.7.4",
+    "underscore": ">=1.13.4",
+    "ws": ">=8.8.0"
   },
   "devDependencies": {},
   "scripts": {
