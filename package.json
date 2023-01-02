@@ -5,7 +5,7 @@
   "main": "wallet_generation.js",
   "dependencies": {
     "bip39": "^3.0.4",
-    "decode-uri-component": ">=0.2.2",
+    "decode-uri-component": ">=0.4.1",
     "ethereumjs-util": "^7.1.5",
     "hdkey": "^2.0.1",
     "web3": "^1.8.1",
